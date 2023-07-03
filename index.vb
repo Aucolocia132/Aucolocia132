@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body style="font-family: Arial;">
+    <h1>Welcome To MEMwebsite</h1>
+    <h1>Look this Video Please🥺</h1>
+    <hr>
+    <h3>Look!!!!!!</h3>
+    <h2>This site belongs to Amir 4d Marawi AbdulKarim!!!</h2>
+ 
+
+
+
+
+</body>
+
+
+
+<head>
+    <link rel="icon" type="image/x-icon" href="download.ico"/>
+    <title>dont look this Video!</title>
+    <meta charset="utf-8" />
+    <video width="700" height="400" controls>
+        <source src="movie.mp4" type="video/mp4">>
+    </video>
+    <hr>
+    <h2>Relax Music</h2>
+    <video width="700" height="400" controls>
+        <source src="RELAXMUSIC.mp4" type="video/mp4">>
+    </video>
+    <hr>
+    <h1>Try not to laugh</h1>
+
+    <video width="700" height="400" controls>
+        <source src="KaTest.mp4" type="video/mp4">>
+    </video>
+
+
+    
+      
+
+</head>
+</html>
